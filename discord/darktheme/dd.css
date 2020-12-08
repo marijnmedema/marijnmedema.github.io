@@ -1998,7 +1998,10 @@ section .da-scroller::-webkit-scrollbar-thumb {border: none !important;}
     Zere's Old Settings Module
     -css snippet by Zerebos
     */
-
+:root {
+    --width2: 100%;
+    --height2: 100%;
+}
 .layers-3iHuyZ {
     align-items:center;
     justify-content:center;
